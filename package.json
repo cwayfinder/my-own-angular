@@ -1,0 +1,33 @@
+{
+  "name": "my-own-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb-base": "^1.0.4",
+    "eslint-plugin-import": "^1.6.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-browserify": "^5.0.5",
+    "karma-eslint": "^2.1.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.7",
+    "sinon": "^1.17.4",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "lodash": "^4.12.0"
+  }
+}
