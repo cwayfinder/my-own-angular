@@ -3,5 +3,8 @@
     "extends": ["airbnb-base/legacy", "plugin:jasmine/recommended"],
     "env": {
         "jasmine": true
+    },
+    "rules": {
+        "no-param-reassign": ["warn"]
     }
 }
