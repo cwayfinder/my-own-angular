@@ -16,6 +16,7 @@
     "eslint": "^2.8.0",
     "eslint-config-airbnb-base": "^1.0.4",
     "eslint-plugin-import": "^1.6.0",
+    "eslint-plugin-jasmine": "^1.8.1",
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.22",
     "karma-browserify": "^5.0.5",
